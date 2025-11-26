@@ -1,4 +1,4 @@
-package sampl-proj;
+package sampl.proj;
 
 /**
  * Hello world!
@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello World!");
     }
 }
+
 
 
